@@ -1,0 +1,11 @@
+C:\Users\nicol\source\ManagementAssistantTester\obj\Debug\ManagementAssistantTester.csproj.AssemblyReference.cache
+C:\Users\nicol\source\ManagementAssistantTester\obj\Debug\ManagementAssistantTester.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\source\ManagementAssistantTester\obj\Debug\ManagementAssistantTester.Form1.resources
+C:\Users\nicol\source\ManagementAssistantTester\obj\Debug\ManagementAssistantTester.Properties.Resources.resources
+C:\Users\nicol\source\ManagementAssistantTester\obj\Debug\ManagementAssistantTester.csproj.GenerateResource.cache
+C:\Users\nicol\source\ManagementAssistantTester\obj\Debug\ManagementAssistantTester.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\ManagementAssistantTester\bin\Debug\ManagementAssistantTester.exe.config
+C:\Users\nicol\source\ManagementAssistantTester\bin\Debug\ManagementAssistantTester.exe
+C:\Users\nicol\source\ManagementAssistantTester\bin\Debug\ManagementAssistantTester.pdb
+C:\Users\nicol\source\ManagementAssistantTester\obj\Debug\ManagementAssistantTester.exe
+C:\Users\nicol\source\ManagementAssistantTester\obj\Debug\ManagementAssistantTester.pdb
